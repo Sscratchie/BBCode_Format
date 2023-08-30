@@ -38,9 +38,9 @@ If CN.value = "C"
  FileAppend "[center]", "Text.txt", "UTF-8"
  FileAppend "[/center]", "Temp.txt", "UTF-8"
  }
-/*   FileAppend A_LoopReadLine, "Text.txt", "UTF-8"
- continue
-  This is the end of the BBCode formatting. */
+;   FileAppend A_LoopReadLine, "Text.txt", "UTF-8"
+; continue
+; This is the end of the BBCode formatting.
 
 FS := InputBox("Please enter a Font number `n1 1 𝖲𝖺𝗇𝗌 `n 2 𝗦𝗮𝗻𝘀 𝗕𝗼𝗹𝗱 `n 3 𝘚𝘢𝘯𝘴 𝘐𝘵𝘢𝘭𝘪𝘤 `n 4 𝙎𝙖𝙣𝙨 𝙄𝙩𝙖𝙡𝙞𝙘 𝘽𝙤𝙡𝙙 `n 5 𝒮𝒸𝓇𝒾𝓅𝓉 `n 6 𝓢𝓬𝓻𝓲𝓹𝓽 𝓑𝓸𝓵𝓭 `n 7 𝔉𝔯𝔞𝔨𝔱𝔲𝔯 `n 8 𝕱𝖗𝖆𝖐𝖙𝖚𝖗 𝕭𝖔𝖑𝖉", "Font", "w200 h240", )
 FileAppend "`n" , "Text.txt", "UTF-8"
