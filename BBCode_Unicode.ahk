@@ -2280,7 +2280,7 @@ Else If (A_LoopField  == "\")
 }
 }
 Signature:
- FileAppend  " `n`n [size=80[color=#FF0000]𓃠 [/color][/size][size=60][color=#C53A00]ꑄ[/color][color=#8B7400]ꇘ[/color][color=#51AE00]ꏳ[/color][color=#00FF00]ꋪ[/color][color=#00C53A]ꋬ[/color][color=#008B74]꓄[/color][color=#0051AE]ꏳ[/color][color=#0000FF]ꃬ[/color][color=#3A00C5]꒐[/color][color=#74008B]ꏂ[/size][/color][size=80][color=#AE0051] 𓃠[/color][/size]", "Text.txt", "UTF-8"	
+ FileAppend  " `n`n [size=80][color=#FF0000]𓃠 [/color][/size][size=60][color=#C53A00]ꑄ[/color][color=#8B7400]ꇘ[/color][color=#51AE00]ꏳ[/color][color=#00FF00]ꋪ[/color][color=#00C53A]ꋬ[/color][color=#008B74]꓄[/color][color=#0051AE]ꏳ[/color][color=#0000FF]ꃬ[/color][color=#3A00C5]꒐[/color][color=#74008B]ꏂ[/size][/color][size=80][color=#AE0051] 𓃠[/color][/size]", "Text.txt", "UTF-8"	
 	
 
 MsgBox "Done"
